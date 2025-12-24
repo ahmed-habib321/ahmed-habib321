@@ -22,21 +22,6 @@
 - Git & GitHub
 - intellij IDEA
 
-[//]: # (---)
-[//]: # (## 🧠 Mathematical Strengths)
-[//]: # (- Discrete Mathematics)
-[//]: # (- Linear Algebra)
-[//]: # (- Probability & Statistics)
-[//]: # (- Mathematical Reasoning & Proof Thinking)
-[//]: # (- Algorithmic Problem Solving)
-[//]: # (---)
-[//]: # (## 📌 Projects)
-
----
-
-## 📈 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-habib321&show_icons=true&theme=tokyonight)
-
 --- 
 
 ## 📄 CV
