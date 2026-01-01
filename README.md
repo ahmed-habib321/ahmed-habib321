@@ -51,7 +51,8 @@
 5. [Threads](https://github.com/ahmed-habib321/Some_Java_Tech/tree/main/src/main/java/org/example/Threads)
 6. [Streams](https://github.com/ahmed-habib321/Some_Java_Tech/tree/main/src/main/java/org/example/Streams)
 6. [Lambda](https://github.com/ahmed-habib321/Some_Java_Tech/tree/main/src/main/java/org/example/lambda)
-7. [DBMS](https://github.com/ahmed-habib321/Database_Course) (Still Working on
-8. [Java EE]() (not created yet)
-9. [Web Service]() (not created yet)
-10. [Spring]() (not created yet)
+7. [DBMS](https://github.com/ahmed-habib321/Database_Course)
+8. [Java EE](https://github.com/ahmed-habib321/Backend_Course)
+9. [Hibernate (Stand alone without Spring)]() (Working on)
+10. [Web Service]() (not created yet)
+11. [Spring]() (not created yet)
