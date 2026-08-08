@@ -12,13 +12,14 @@
 <!-- Social Links -->
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-habib153">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="width:30px" alt="LinkedIn" /> Linkedin</a>
-  &nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:ahmedhabib0660@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" style="width:30px" alt="Gmail" /> Gmail</a>
-  &nbsp;
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://wa.me/201228828937">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" style="width:30px" alt="WhatsApp" /> WhatsApp</a>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </div>
 
 <br/>
