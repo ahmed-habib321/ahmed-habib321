@@ -2,25 +2,23 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Ahmed%20Habib&fontColor=fff&fontSize=50&desc=Backend%20Java%20Developer&descSize=20&descAlignY=65&animation=twinkling" width="100%" />
 </div>
 
-<!-- Social Links with Hover Effects -->
-  
-<div align="center" style="font-size:25pt">
-  <a href="www.linkedin.com/in/ahmed-habib153" style="text-decoration: none">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="width:30px " alt="LinkedIn" /> Linkedin</a>
-  &nbsp;
-  <a href="mailto:ahmedhabib0660@gmail.com" style="text-decoration: none">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" style="width:30px " alt="Gmail" /> Gmail</a>
-  </a>
-  &nbsp;
-  <a href="https://github.com/ahmed-habib321" style="text-decoration: none">
-    <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" style="width:30px ; filter: invert(100%)
- " alt="GitHub" /> GitHub</a>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/201228828937" style="text-decoration: none">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" style="width:30px " alt="WhatsApp" /> WhatsApp</a>
-  </a>
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Backend+Java+Developer;Spring+Boot+%26+Microservices;REST+API+%26+Database+Design;Always+Learning" alt="Typing SVG" />
+</p>
 
+<br/>
+
+<!-- Social Links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-habib153">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="width:30px" alt="LinkedIn" /> Linkedin</a>
+  &nbsp;
+  <a href="mailto:ahmedhabib0660@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" style="width:30px" alt="Gmail" /> Gmail</a>
+  &nbsp;
+  <a href="https://wa.me/201228828937">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" style="width:30px" alt="WhatsApp" /> WhatsApp</a>
 </div>
 
 <br/>
@@ -76,9 +74,7 @@ I'm a passionate **Backend Developer** specializing in designing and implementin
 <p>
   <img style="width:50px ; filter: invert(100%)" src="https://icon.icepanel.io/Technology/svg/GitHub.svg" />
   <img style="width:50px" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
-  <img style="width:50px" src="https://icon.icepanel.io/Technology/svg/AWS.svg" />
   <img style="width:50px" src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" />
-  <img style="width:50px" src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" />
 </p>
 
 #### Database
@@ -87,12 +83,16 @@ I'm a passionate **Backend Developer** specializing in designing and implementin
   <img style="width:50px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
   <img style="width:50px" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" />
   <img style="width:50px" src="https://icon.icepanel.io/Technology/svg/Oracle.svg" />
+  <img style="width:50px" src="https://icon.icepanel.io/Technology/svg/Redis.svg" />
 </p>
 
 #### Tools
 <p>
 <img style="width:50px" src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" />
 <img style="width:50px" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
+<img style="width:50px" src="https://raw.githubusercontent.com/grafana/loki/master/docs/sources/logo.png" />
+<img style="width:50px" src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" />
+<img style="width:50px" src="https://icon.icepanel.io/Technology/svg/Grafana.svg" />
 </p>
 
 <br/>
@@ -114,9 +114,6 @@ I'm a passionate **Backend Developer** specializing in designing and implementin
 
 </div>
 
-
-</div>
-
   </tr>
 </table>
 
@@ -133,6 +130,15 @@ I'm a passionate **Backend Developer** specializing in designing and implementin
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-habib321&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true" alt="Contribution Graph" width="95%" />
   </a>
+</div>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed-habib321/ahmed-habib321/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed-habib321/ahmed-habib321/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ahmed-habib321/ahmed-habib321/output/github-snake.svg" />
+  </picture>
 </div>
 
 <!-- Footer Wave -->
